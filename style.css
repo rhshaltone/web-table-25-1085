@@ -1,0 +1,148 @@
+table {
+      width: 80%;
+      border-collapse: collapse;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
+      border: none; 
+      background-color: white;
+    }
+caption {
+      font-weight: bold;
+      margin-bottom: 10px;
+      text-align: left;
+      font-size: 1.5em; 
+      color: #333;
+    }
+th, td {
+      padding: 12px 15px;
+      text-align: left;
+      border: none !important; 
+    }
+.product-table {
+      border: none; 
+    }
+.product-table thead {
+      background-color: #1A237E;
+      color: #f3f305;
+      font-size: 1.1em;
+    }
+.product-table tbody tr:nth-child(1) td:nth-child(1) {
+    background-color: #FF5722;
+    color: #000000;
+}
+.product-table tbody tr:nth-child(1) td:nth-child(2) {
+    background-color: #FFCCBC;
+    color: #880E4F;
+}
+.product-table tbody tr:nth-child(1) td:nth-child(3) {
+    background-color: #BF360C;
+    color: #FFFFFF;
+}
+.product-table tbody tr:nth-child(1) td:nth-child(4) {
+    background-color: #E64A19;
+    color: #00BCD4;
+}
+.product-table tbody tr:nth-child(2) td:nth-child(1) {
+    background-color: #009688;
+    color: #FF00FF;
+}
+.product-table tbody tr:nth-child(2) td:nth-child(2) {
+    background-color: #80CBC4;
+    color: #1A237E;
+}
+.product-table tbody tr:nth-child(2) td:nth-child(3) {
+    background-color: #004D40;
+    color: #FFEB3B;
+}
+.product-table tbody tr:nth-child(2) td:nth-child(4) {
+    background-color: #4DB6AC;
+    color: #E91E63;
+}
+.product-table tbody tr:nth-child(3) td:nth-child(1) {
+    background-color: #673AB7;
+    color: #FF9800;
+}
+.product-table tbody tr:nth-child(3) td:nth-child(2) {
+    background-color: #B39DDB;
+    color: #000000;
+}
+.product-table tbody tr:nth-child(3) td:nth-child(3) {
+    background-color: #5E35B1;
+    color: #00BCD4;
+}
+.product-table tbody tr:nth-child(3) td:nth-child(4) {
+    background-color: #9575CD;
+    color: #FFFFFF;
+}
+.farm-table {
+      border: none; 
+    }
+.farm-table thead {
+      background-color: #006064;
+      color: #FF0000;
+      font-size: 1.1em;
+    }
+.farm-table tbody tr:nth-child(odd) td:nth-child(1) {
+    background-color: #C5E1A5;
+    color: #33691E;
+}
+.farm-table tbody tr:nth-child(odd) td:nth-child(2) {
+    background-color: #AED581;
+    color: #000000;
+}
+.farm-table tbody tr:nth-child(odd) td:nth-child(3) {
+    background-color: #8BC34A;
+    color: #1A237E;
+    text-decoration: none !important; 
+}
+.farm-table tbody tr:nth-child(odd) td:nth-child(4) {
+    background-color: #689F38;
+    color: #FFFFFF;
+}
+.farm-table tbody tr:nth-child(even) td:nth-child(1) {
+    background-color: #B3E5FC;
+    color: #01579B;
+}
+.farm-table tbody tr:nth-child(even) td:nth-child(2) {
+    background-color: #81D4FA;
+    color: #FF9800;
+}
+.farm-table tbody tr:nth-child(even) td:nth-child(3) {
+    background-color: #4FC3F7;
+    color: #000000;
+    text-decoration: none !important; 
+}
+.farm-table tbody tr:nth-child(even) td:nth-child(4) {
+    background-color: #29B6F6;
+    color: #FF00FF;
+}
+.farm-table tbody tr:nth-child(3) td:nth-child(1) {
+    background-color: #FFCDD2;
+    color: #D32F2F;
+}
+.farm-table tbody tr:nth-child(3) td:nth-child(2) {
+    background-color: #EF9A9A;
+    color: #000000;
+}
+.farm-table tbody tr:nth-child(3) td:nth-child(3) {
+    background-color: #E57373;
+    color: #009688;
+    text-decoration: none !important; 
+}
+.farm-table tbody tr:nth-child(3) td:nth-child(4) {
+    background-color: #EF5350;
+    color: #FFFF00;
+}
+.farm-table td:nth-child(3) a {
+    text-decoration: none !important;
+    color: inherit; 
+}
+.farm-table td {
+      border: none; 
+    }
+.farm-table tbody tr:last-child td {
+      border-bottom: none; 
+    }
+.farm-table td:last-child {
+      border-right: none; 
+    }
